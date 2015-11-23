@@ -1,2 +1,3 @@
 This is a bio
-# Favorite color: Red
+- **Favorite color:** Red
+- **Current country:** Canada
